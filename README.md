@@ -1,5 +1,14 @@
 # Empresta Fácil
 Sistema de empréstimo bancário, simples.
+<p align="center"><a href="https://github.com/Emiltonn" target="_blank"><img src="https://st.depositphotos.com/1012074/4600/v/450/depositphotos_46003471-stock-illustration-financial-agreement-icon.jpg" width="400"></a></p>
+
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/emiltonn/prol1"><img src="https://img.shields.io/packagist/php-v/emiltonn/prol1" alt="Latest Stable Version"></a>
+<a href="https://github.com/Emiltonn/emprestafacil/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Emiltonn/emprestafacil?style=flat"></a>
+
+
 
 
 [![Contributors][contributors-shield]][https://github.com/Emiltonn/emprestafacil/settings/access?query=filter%3Acollaborators]
