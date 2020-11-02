@@ -2,20 +2,20 @@
 Sistema de empréstimo bancário, simples.
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/Emiltonn/emprestafacil/settings/access?query=filter%3Acollaborators]
+[![Forks][forks-shield]][https://github.com/Emiltonn/emprestafacil/network/members]
+[![Stargazers][stars-shield]][https://github.com/Emiltonn/emprestafacil/stargazers]
+[![Issues][issues-shield]][https://github.com/Emiltonn/emprestafacil/issues]
+[![MIT License][license-shield]][https://github.com/Emiltonn/emprestafacil/blob/main/LICENSE]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/emanuelmilton/]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Emiltonn/emprestafacil">
+    <img src="https://st.depositphotos.com/1012074/4600/v/450/depositphotos_46003471-stock-illustration-financial-agreement-icon.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EMPRESTA FÁCIL</h3>
@@ -26,11 +26,11 @@ Sistema de empréstimo bancário, simples.
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Emiltonn/emprestafacil">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Emiltonn/emprestafacil/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Emiltonn/emprestafacil/issues">Request Feature</a>
   </p>
 </p>
 
